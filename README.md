@@ -48,7 +48,7 @@ Welcome to PwdGen, an advanced and visually appealing password generator built u
 
 - **C#**
 - **Spectre.Console**
-- **.NET 5.0**
+- **.NET 9.0**
 
 ## Contribution
 
