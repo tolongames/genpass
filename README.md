@@ -26,7 +26,7 @@ Welcome to PwdGen, an advanced and visually appealing password generator built u
     ```
 
 3. **Install Dependencies**:
-    Ensure you have [.NET 5.0 SDK](https://dotnet.microsoft.com/download) installed.
+    Ensure you have [.NET 9.0 SDK](https://dotnet.microsoft.com/download) installed.
     ```sh
     dotnet restore
     ```
